@@ -1,0 +1,21 @@
+# Súbory s citlivými údajmi (KĽÚČOVÉ! Nikdy nezdieľaj API kľúče)
+.env
+
+# Python bytecode a cache súbory
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtuálne prostredia (Virtual Environments)
+venv/
+.venv/
+env/
+ENV/
+
+# Súbory operačných systémov
+.DS_Store
+Thumbs.db
+
+# Konfigurácie editorov (napr. VS Code, PyCharm)
+.vscode/
+.idea/
